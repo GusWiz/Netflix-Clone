@@ -1,0 +1,12 @@
+*{
+  margin: 0; /* Remove the default margin */
+  padding: 0; /* Remove the default padding */
+  box-sizing: border-box; /* Include the padding and border in the element's total width and height */
+}
+
+/* Change color of the complete webpage */
+
+body{
+  background-color: black;
+  color: white /* Change the color of the text */
+}
